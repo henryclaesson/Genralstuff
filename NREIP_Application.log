@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.9.8)  8 SEP 2023 10:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.9.8)  9 SEP 2023 22:46
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -8,8 +8,8 @@ entering extended mode
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-03-30> (C:\Users\HC110\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
-(C:\Users\HC110\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+(C:\Users\HC110\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -44,24 +44,46 @@ LaTeX Font Info:    ... okay on input line 2.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 8.
+(Font)              <12> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 8.
- [1
+(Font)              <8> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 8.
 
-{C:/Users/HC110/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (NREIP_Application.aux) ) 
+Underfull \hbox (badness 10000) in paragraph at lines 13--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+ []
+
+[1
+
+{C:/Users/HC110/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] (NREIP_Application.aux) ) 
 Here is how much of TeX's memory you used:
- 431 strings out of 476331
- 8632 string characters out of 5787766
- 1851660 words of memory out of 5000000
- 20948 multiletter control sequences out of 15000+600000
- 512941 words of font info for 34 fonts, out of 8000000 for 9000
+ 448 strings out of 476331
+ 8807 string characters out of 5787766
+ 1856660 words of memory out of 5000000
+ 20957 multiletter control sequences out of 15000+600000
+ 515677 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,5n,38p,242b,107s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/HC110/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/HC110/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/HC110/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on NREIP_Application.pdf (1 page, 42866 bytes).
+ 33i,5n,38p,274b,107s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/HC110/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/HC110/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/HC110/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on NREIP_Application.pdf (2 pages, 46331 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
+ 24 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
