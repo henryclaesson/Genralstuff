@@ -1,15 +1,16 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.9.8)  9 SEP 2023 22:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.10.12)  12 OCT 2023 16:10
 entering extended mode
- \write18 enabled.
+ restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/HC110/Documents/GitHub/Genralstuff/NREIP_Application.tex
-(c:/Users/HC110/Documents/GitHub/Genralstuff/NREIP_Application.tex
-LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-03-30> (C:\Users\HC110\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
-(C:\Users\HC110\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
-File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+**c:/Users/Henry/Documents/GitHub/Genralstuff/NREIP_Application.tex
+(c:/Users/Henry/Documents/GitHub/Genralstuff/NREIP_Application.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+(C:\Users\Henry\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\Henry\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -22,8 +23,8 @@ File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (C:\Users\HC110\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
+) (C:\Users\Henry\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count193
 \l__pdf_internal_box=\box51
 ) (NREIP_Application.aux)
@@ -71,17 +72,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--42
 
 [1
 
-{C:/Users/HC110/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] (NREIP_Application.aux) ) 
+{C:/Users/Henry/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] (NREIP_Application.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
+ ) 
 Here is how much of TeX's memory you used:
- 448 strings out of 476331
- 8807 string characters out of 5787766
- 1856660 words of memory out of 5000000
- 20957 multiletter control sequences out of 15000+600000
- 515677 words of font info for 43 fonts, out of 8000000 for 9000
+ 453 strings out of 475247
+ 8934 string characters out of 5757791
+ 1924801 words of memory out of 5000000
+ 22048 multiletter control sequences out of 15000+600000
+ 561459 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 33i,5n,38p,274b,107s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/HC110/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/HC110/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/HC110/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on NREIP_Application.pdf (2 pages, 46331 bytes).
+ 35i,5n,50p,274b,107s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Henry/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Henry/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Henry/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on NREIP_Application.pdf (2 pages, 46330 bytes).
 PDF statistics:
  24 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
